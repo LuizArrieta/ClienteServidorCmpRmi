@@ -1,1 +1,0 @@
-Copiar aqui rmi-conversion-lib.jar (generado por el proyecto rmi-conversion-lib)
